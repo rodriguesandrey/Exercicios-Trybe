@@ -6,3 +6,4 @@ Segundo passo em processo!!
 
 
 #digite aqui seu texto
+longe de estar perto estamos long
