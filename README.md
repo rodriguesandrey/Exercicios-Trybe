@@ -1,4 +1,5 @@
 # Exercicios-Trybe
-Exercícios da Trybe
-Lista
-teste
+
+## Para adicionar jogador, digite
+
+# Para adicionar ambiente, digite
